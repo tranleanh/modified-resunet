@@ -1,3 +1,9 @@
+# Sept. 2019
+# Tran Le Anh, MSc Student
+# Satellite Image Processing Lab, Myongji Univ., Yongin, South Korea
+# tranleanh.nt@gmail.com
+# https://sites.google.com/view/leanhtran
+
 import numpy as np 
 import os
 import skimage.io as io
