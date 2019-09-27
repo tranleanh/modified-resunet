@@ -4,7 +4,7 @@
 # tranleanh.nt@gmail.com
 # https://sites.google.com/view/leanhtran
 
-# Expanded Residual Unet Model (Architecture)
+# Residual Unet Model (Architecture)
 
 import numpy as np 
 import os
